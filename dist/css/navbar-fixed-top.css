@@ -1,0 +1,206 @@
+
+@font-face {
+  font-family: ubuntu;
+  src: url(III_font_awesome/Custom%20Fonts/Ubuntu/Ubuntu-Regular.ttf);
+
+  }
+  body{
+    font-family:'ubuntu';
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+    .navbar-form input, .form-inline input {
+    width:auto;
+    }
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    z-index:10;
+}
+.custnav{}
+#sec1{
+  background: url('../images/main.jpg');
+  background-size:100% 500px;
+  background-repeat: no-repeat;
+}
+@font-face{font-family:'Ubuntu';src:url(Assets/Ubuntu/Ubuntu-Regular.ttf);}
+
+    html,body{
+      //  height:1500px;
+        font-family:'Ubuntu-Regular';
+    }
+    @media only screen and (max-device-width:480px) {
+        #logo_hide{
+          visibility:hidden;
+          content:BVM;
+        }
+    }
+.wet-asphalt {
+  background-color: #eee;
+  padding-left: 100px;
+}
+.wet-asphalt a:not(.btn) {
+  color: #bdc3c7;
+}
+.wet-asphalt a:not(.btn):hover {
+  color: #d9534f;
+}
+.midnight-blue {
+  background-color: #2c3e50;
+}
+.ft-right{
+  color: white;
+  padding-left: 100px;
+}
+.ft-left{
+  color: white;
+}
+.col-foot{
+  background-color: #2D4D64;
+}
+
+    .ftr{
+  background-color: #0D4A65;
+  height: 200px;
+  }
+
+
+#sec1{
+  height: 500px;
+  width: 100%;
+}
+
+.quotes{
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  margin-top: 18%;
+}
+
+#caro{
+  color: yellow;
+  text-align: center;
+
+}
+
+#caro1{
+  color: yellow;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 50px;
+}
+
+
+#buttonwrapper{
+  margin-left: 45%;
+}
+
+//temp
+
+.wrapper
+{
+  text-align: center;
+}
+.wrapper .btn {
+    margin-top: 10px;
+}
+
+#banner {
+  width: 100%;
+  overflow: hidden;
+}
+
+
+
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+}
+
+#down{
+  //margin-left: 50%;
+  font-size: 50px;
+}
+
+.navbar-fixed2 {
+  top: 126px;
+  z-index: 100;
+
+  width: 100%;
+  position: fixed;
+  display: block;
+  background-color: #ffffff;
+}
+
+a.back-to-top {
+  display: none;
+  width: 60px;
+  height: 60px;
+  text-indent: -9999px;
+  position: fixed;
+  z-index: 999;
+  right: 20px;
+  bottom: 20px;
+  background: #66AC65 url("../images/up-arrow.png") no-repeat center 43%;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+.custnav
+{
+  background-color: #ffffff;
+}
+.ftr{
+
+  background-color: #0D4A65;
+  height: 200px;
+
+  }
+ .cvm{
+    background-color:#eee ;
+    padding-top: 10px;
+    }
+
+  .rspo{
+    width:254px;
+    height: 273px;
+  }
+  .input-group{
+    padding-right: 50px;
+  }
+  #map {
+    margin-left:-10px;
+    padding-top: 10px;
+    margin-bottom: 18px;
+    width: 300px;
+    height: 200px;
+  }
+
+ .team-name{
+    text-align: center;
+    color: black;
+    letter-spacing:2;
+    display:block;
+    font-weight:600
+   }
+  .marquee{
+    margin-left: 1000px;
+   }
+.vr{
+  width: 10px;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+    left: 900px;
+}
+  .team-post{
+    text-align: center;
+    letter-spacing:2;
+     display:block;
+  }
